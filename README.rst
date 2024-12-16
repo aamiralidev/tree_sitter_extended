@@ -1,3 +1,5 @@
+This project is tested with BrowserStack.
+
 ==================================================
 Python Bindings for Tree Sitter with All Languages
 ==================================================
